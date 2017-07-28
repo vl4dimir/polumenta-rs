@@ -1,0 +1,7 @@
+[package]
+name = "polumenta-rs"
+version = "0.1.0"
+authors = ["Vladimir Mitrović <v@brutalism.rs>"]
+
+[dependencies]
+rand = "0.3.16"
